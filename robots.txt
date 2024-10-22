@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://schlocep.github.io/schlocep.txt.gz
+Sitemap: https://schlocep.github.io/app/schlocep.txt.gz
+Sitemap: https://schlocep.github.io/assets/schlocep.txt.gz
+Sitemap: https://schlocep.github.io/css/schlocep.txt.gz
+Sitemap: https://schlocep.github.io/includes/schlocep.txt.gz
+Sitemap: https://schlocep.github.io/item/schlocep.txt.gz
+Sitemap: https://schlocep.github.io/src/schlocep.txt.gz
